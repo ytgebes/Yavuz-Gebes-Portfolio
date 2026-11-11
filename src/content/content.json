@@ -1,11 +1,11 @@
 {
   "site": {
-    "name": "Your Name",
+    "name": "Yavuz Gebes",
     "photo": "",
-    "title": "Your Name — Engineering Portfolio",
-    "tagline": "A short sentence about the work you want to do.",
-    "email": "you@example.com",
-    "location": "Your City, State",
+    "title": "Yavuz Gebes - Computer Science Portfolio",
+    "tagline": "Computer Science and Statistics Student",
+    "email": "yavuztgebes@gmail.com",
+    "location": "Buffalo, New York",
     "status": "Open to opportunities",
     "resume": "",
     "templateCredit": {
@@ -21,10 +21,10 @@
     ],
     "looking": "Use this space to say what you are looking for, such as an internship, collaborator, or full-time role.",
     "profile": {
-      "Based in": "Your City, State",
-      "Studying": "Your degree or program",
-      "Graduating": "Month Year",
-      "Focus": "Your technical interests"
+      "Based in": "Buffalo, New York",
+      "Studying": "Computer Science and Statistics",
+      "Graduating": "May 2029",
+      "Focus": "Data Science"
     }
   },
   "skills": [
@@ -39,7 +39,7 @@
       "group": "Tools",
       "items": [
         { "name": "Git", "level": "intermediate" },
-        { "name": "CAD or design tool", "level": "beginner" }
+        { "name": "CAD", "level": "advanced" }
       ]
     }
   ],
@@ -79,11 +79,11 @@
     }
   ],
   "education": {
-    "degree": "Your degree",
+    "degree": "Computer Science and Statistics",
     "minors": "Your concentration or minor",
-    "school": "Your school",
-    "start": "2024-08",
-    "end": "2028-05"
+    "school": "SUNY University at Buffalo",
+    "start": "2025-08",
+    "end": "2029-05"
   },
   "experience": [
     {
@@ -101,6 +101,6 @@
   "contact": [
     { "label": "Email", "url": "mailto:you@example.com", "icon": "mail" },
     { "label": "GitHub", "url": "https://github.com/your-username", "icon": "github" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/your-profile", "icon": "linkedin" }
+    { "label": "LinkedIn", "url": "www.linkedin.com/in/yavuz-gebes", "icon": "linkedin" }
   ]
 }
